@@ -1,3 +1,1 @@
-# Data Science Analysis in Python
-
-Santa Clara University Masters of Science in Information Systems class
+# Data Science Analysis with Python
